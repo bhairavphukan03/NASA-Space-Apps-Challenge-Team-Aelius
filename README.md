@@ -1,2 +1,4 @@
+# NASA SPACE APPS Challenge - Unlocking The Secrets of the Sun # Aarush, Chennai
 # Team-Aelius
-Unlocking the secrets of the sun ( NASA SPACE APPS )
+ Team Members - Bhairav Phukan (Team Leader); Sarthak Gupta; Akshat Srivastava; Amanjit Singh;Utkarsh Ranjan
+ Topic : Helios Online Platform (H.O.P)                                     
